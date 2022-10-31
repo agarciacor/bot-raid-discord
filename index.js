@@ -27,13 +27,11 @@ var server;
 var ejecutado = false;
 
 const whitelist = [
-  '953539953588076566',   //MinelordCorporation
-  '998819207980527638',   //2b2tpe - tv
-  '965045822934884472',   //MineShop
-  '978129444768186430',   //Leviatan
-  '1028779739357397032',  //MinelordBank
-  '792232007395704852',   //Raiders
-  '963180224361684992'    //Hydra
+  'ID_1',   //SERVER 1
+  'ID_2',   //SERVER 2
+  'ID_3',   //SERVER 3
+  'ID_4',   //SERVER 4
+  'ID_5'    //SERVER 5
 ]
 
 const embeda = new Discord.MessageEmbed()
