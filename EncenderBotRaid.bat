@@ -1,5 +1,5 @@
 @echo off
-title RAIDERS - BOT
+title RAID - BOT
 :top
 cls
 node index.js
